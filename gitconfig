@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marie.seaman1202@gmail.com
+	name = marie seaman
